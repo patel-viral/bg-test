@@ -10,7 +10,7 @@
 				<key>DNSProtocol</key>
 				<string>HTTPS</string>
 				<key>ServerURL</key>
-				<string>https://dns-family.adguard.com/dns-query</string>
+				<string>https://ad.prxhost.duckdns.org/dns-query</string>
 			</dict>
 			<key>PayloadDescription</key>
 			<string>Configures private Encrypted DNS over HTTPS</string>
